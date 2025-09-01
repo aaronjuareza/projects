@@ -23,6 +23,7 @@ desktop.ini
 *.conf
 *.ini
 *.cfg
+*.yml
 
 # =========================
 # IDEs y editores
